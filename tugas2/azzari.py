@@ -4,7 +4,7 @@ if __name__ == "__main__":
 	# list
 	y = [ 1, 'Belimbing' , 3.14 , 'ceri']
 	# dictionery
-	z = {'a': 'Apel' , 'b': 'Belimbing' , 'c': 'ceri' , 'x': 'xemangka'}	
+	z = {'a': 'Apel' , 'b': 'Belimbing' , 'c': 'ceri' , 'x': 'Xemangka'}	
 	print(type(x))
 	print(x)
 	print(type(y))
